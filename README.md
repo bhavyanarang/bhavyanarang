@@ -74,9 +74,9 @@ I am Bhavya, a final year Computer Science & Artificial Intelligence Undergrad @
 </table>
 <br>
 
-<p align="center">
+<!-- <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=bhavyanarang&show_icons=true&cache_seconds=86400&theme=nightowl" ><br>
-</p>
+</p> -->
 
 <h3 align="center"> Find me here! 
 </h3> 
