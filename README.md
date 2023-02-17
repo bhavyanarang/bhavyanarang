@@ -1,8 +1,8 @@
 <h3 align="center"> Hey there! 👋</h3>
 
-<p align="center">
+<h4 align="center">
 I am Bhavya, a final year Computer Science & Artificial Intelligence Undergrad @ IIIT Delhi
-</p>
+</h4>
 
 <br>
 
@@ -74,10 +74,12 @@ I am Bhavya, a final year Computer Science & Artificial Intelligence Undergrad @
 </table>
 <br>
 
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=bhavyanarang&show_icons=true&cache_seconds=86400&theme=nightowl" ><br>
+</p>
 
-
-<h1 align="center"> Find me here! 
-</h1> 
+<h3 align="center"> Find me here! 
+</h3> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bhavya-narang/"><img alt="LinkedIn - bhavya-narang" title="LinkedIn - bhavya-narang" height="32" width="32" src="assets/linkedin.svg"></a> &nbsp;
