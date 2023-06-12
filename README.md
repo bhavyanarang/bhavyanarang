@@ -19,19 +19,7 @@ I am Bhavya, a final year Computer Science & Artificial Intelligence Undergrad @
           </td>
         </tr>
       </table>
-    </td>
-      <td style="border-right: 1px solid #eeeeef;">
-      <table>
-        <tr>
-          <td>
-            <img alt="Atlassian" title="Atlassian" style="height:40px; width:40px;" src="assets/atlassian.png">
-          </td>
-          <td>
-            SWE Intern at <a href="https://www.atlassian.com/">Atlassian</a>
-          </td>
-        </tr>
-      </table>
-    </td>
+
     <td style="border-right: 1px solid #eeeeef;">
       <table>
         <tr>
