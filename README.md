@@ -1,7 +1,8 @@
 <h3 align="center"> Hey there! 👋</h3>
 
 <h4 align="center">
-I am Bhavya, a final year Computer Science & Artificial Intelligence Undergrad @ IIIT Delhi
+I am Bhavya, a Software Engineer @ Atlassian and I have graduated from Computer Science & Artificial Intelligence @ IIIT Delhi in 2023.
+I'm interested in ML and backend development (hit me up and we can connect!) 
 </h4>
 
 <br>
@@ -12,10 +13,10 @@ I am Bhavya, a final year Computer Science & Artificial Intelligence Undergrad @
       <table>
         <tr>
           <td>
-            <img alt="Mantle-Labs" title="Mantle-Labs" style="height:40px; width:40px;" src="assets/mantle_logo.jpeg">
+            <img alt="Atlassian" title="Atlassian" style="height:40px; width:40px;" src="assets/atlassian.png">
           </td>
           <td>
-            Data Science Intern at <a href="https://www.mantle-labs.com/"> Mantle Labs</a>
+            Software Engineer at <a href="https://www.atlassian.com/">Atlassian</a>
           </td>
         </tr>
       </table>
@@ -24,10 +25,10 @@ I am Bhavya, a final year Computer Science & Artificial Intelligence Undergrad @
       <table>
         <tr>
           <td>
-            <img alt="Atlassian" title="Atlassian" style="height:40px; width:40px;" src="assets/atlassian.png">
+            <img alt="Mantle-Labs" title="Mantle-Labs" style="height:40px; width:40px;" src="assets/mantle_logo.jpeg">
           </td>
           <td>
-            SWE Intern at <a href="https://www.atlassian.com/">Atlassian</a>
+            Data Science Intern at <a href="https://www.mantle-labs.com/"> Mantle Labs</a>
           </td>
         </tr>
       </table>
