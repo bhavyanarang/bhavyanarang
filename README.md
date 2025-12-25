@@ -33,44 +33,7 @@ I'm interested in ML and backend development (hit me up and we can connect!)
         </tr>
       </table>
     </td>
-    <td style="border-right: 1px solid #eeeeef;">
-      <table>
-        <tr>
-          <td>
-            <img alt="Scaler" title="Scaler" style="height:40px; width:40px;" src="assets/scaler.png">
-          </td>
-          <td>
-            ML & DS Content Developer at <a href="https://www.scaler.com/">Scaler</a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;">
-      <table>
-        <tr>
-          <td>
-            <img alt="Relevel by Unacademy" title="Relevel" style="height:40px; width:40px;" src="assets/relevel.png">
-          </td>
-          <td>
-            Problem Setter at <a href="https://relevel.com/">Relevel by Unacademy</a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;">
-      <table>
-        <tr>
-          <td>
-            <img alt="SIRO Clinpharm" title="SIRO Clinpharm" style="height:40px; width:40px;" src="assets/siro.png">
-          </td>
-          <td>
-            SWE Intern at <a href="https://www.siroclinpharm.com/">SIRO Clinpharm</a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    
-    
+  
   </tr>
 </table>
 <br>
